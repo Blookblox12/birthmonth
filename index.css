@@ -10,6 +10,12 @@ h1 {
     -webkit-text-stroke: 3px;
     -webkit-text-stroke-color: white;
 }
+.names {
+    font-family: Comic Sans MS, Comic Sans;
+    font-size: 70px;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: white;
+}
 
 h2 {
     font-family: Comic Sans MS, Comic Sans;
